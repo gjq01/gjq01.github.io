@@ -811,12 +811,13 @@ var jiathis_config={
     var gitalk = new Gitalk({
       clientID: 'ad9989958ea110a158fd',
       clientSecret: 'b8402fba34585d665ff87cfd1f7517b2fc980c07',
-      repo: 'blog-comments',
+      repo: 'gjq01.github.io',
       owner: 'gjq01',
       admin: ['gjq01'],
-      proxy: 'https://my.gjq.workers.dev/?https://github.com/login/oauth/access_token',
+      proxy: 'https://gjq01-github-io.vercel.app//https://github.com/login/oauth/access_token',
       id: location.pathname,
-      distractionFreeMode: 'false'
+      distractionFreeMode: 'false',
+      lang: 'en'
     })
     gitalk.render('gitalk-container')
   </script>
