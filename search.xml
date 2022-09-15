@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Visual Studio 真机调试</title>
+    <url>/57f71e2b44cc/</url>
+    <content><![CDATA[<h1 id="adb-无线调试"><a href="#adb-无线调试" class="headerlink" title="adb 无线调试"></a>adb 无线调试</h1><p>机型 MI9 MIUI 12.5</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1.开启开发者模式</span><br><span class="line">2.打开开发者选项</span><br><span class="line">3.开启无限调试并进入可以看到 ip+端口</span><br><span class="line">4.vs 打开 adb 命令窗口</span><br><span class="line">  输入：adb connect ip:端口</span><br></pre></td></tr></table></figure>]]></content>
+      <tags>
+        <tag>Vs开发工具</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo基本命令</title>
     <url>/a016a8b20502/</url>
     <content><![CDATA[<h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$npm install -g hexo-cli </span><br></pre></td></tr></table></figure>
@@ -12,6 +21,44 @@
         <tag>Hexo</tag>
         <tag>命令</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Vscode基本操作</title>
+    <url>/e8b9454e0a12/</url>
+    <content><![CDATA[<h1 id="整理代码"><a href="#整理代码" class="headerlink" title="整理代码"></a>整理代码</h1><p>Ctrl+Shift+f</p>
+<h1 id="vscode-内部运行"><a href="#vscode-内部运行" class="headerlink" title="vscode 内部运行"></a>vscode 内部运行</h1><p><img src="/image/vscode%E5%86%85%E9%83%A8%E8%BF%90%E8%A1%8C.png"></p>
+<h1 id="vscode-集成终端被拒绝"><a href="#vscode-集成终端被拒绝" class="headerlink" title="vscode 集成终端被拒绝"></a>vscode 集成终端被拒绝</h1><p><img src="/image/vscode%E9%9B%86%E6%88%90%E7%BB%88%E7%AB%AF%E6%8B%92%E7%BB%9D%E8%AE%BF%E9%97%AE.png"></p>
+]]></content>
+      <tags>
+        <tag>vscode</tag>
+        <tag>vscode开发工具</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>iis 服务器搭建下载服务器</title>
+    <url>/512755b9a75f/</url>
+    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1、搭建 Web 服务器</span><br><span class="line">此处略。。。 自行参考他人文章</span><br><span class="line">2、配置如下图</span><br><span class="line">  application/vnd.android.package-archive</span><br></pre></td></tr></table></figure>
+<p><img src="/image/iis%E4%B8%8B%E8%BD%BD%E6%9C%8D%E5%8A%A1%E5%99%A8.png"></p>
+]]></content>
+      <tags>
+        <tag>服务器</tag>
+        <tag>Windows</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>vs 专业版注册码</title>
+    <url>/5003b26b8dff/</url>
+    <content><![CDATA[<h1 id="Vs2022-激活码"><a href="#Vs2022-激活码" class="headerlink" title="Vs2022 激活码"></a>Vs2022 激活码</h1><p>Professional: 专业版<br>　　TD244-P4NB7-YQ6XK-Y8MMM-YWV2J<br>Enterprise: 企业版<br>　　VHF9H-NXBBB-638P6-6JHCY-88JWH</p>
+]]></content>
+      <tags>
+        <tag>开发工具</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>宁可躺平,也不内卷</title>
+    <url>/fce5deba3bf6/</url>
+    <content><![CDATA[<h1 id="部署GitHub"><a href="#部署GitHub" class="headerlink" title="部署GitHub"></a>部署GitHub</h1><p><img src="/image/cretrepository.png"><br><img src="/image/setgit.png"></p>
+]]></content>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -29,53 +76,6 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Visual Studio 真机调试</title>
-    <url>/57f71e2b44cc/</url>
-    <content><![CDATA[<h1 id="adb-无线调试"><a href="#adb-无线调试" class="headerlink" title="adb 无线调试"></a>adb 无线调试</h1><p>机型 MI9 MIUI 12.5</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1.开启开发者模式</span><br><span class="line">2.打开开发者选项</span><br><span class="line">3.开启无限调试并进入可以看到 ip+端口</span><br><span class="line">4.vs 打开 adb 命令窗口</span><br><span class="line">  输入：adb connect ip:端口</span><br></pre></td></tr></table></figure>]]></content>
-      <tags>
-        <tag>Vs开发工具</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>iis 服务器搭建下载服务器</title>
-    <url>/512755b9a75f/</url>
-    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1、搭建 Web 服务器</span><br><span class="line">此处略。。。 自行参考他人文章</span><br><span class="line">2、配置如下图</span><br><span class="line">  application/vnd.android.package-archive</span><br></pre></td></tr></table></figure>
-<p><img src="/image/iis%E4%B8%8B%E8%BD%BD%E6%9C%8D%E5%8A%A1%E5%99%A8.png"></p>
-]]></content>
-      <tags>
-        <tag>服务器</tag>
-        <tag>Windows</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Vscode基本操作</title>
-    <url>/e8b9454e0a12/</url>
-    <content><![CDATA[<h1 id="整理代码"><a href="#整理代码" class="headerlink" title="整理代码"></a>整理代码</h1><p>Ctrl+Shift+f</p>
-<h1 id="vscode-内部运行"><a href="#vscode-内部运行" class="headerlink" title="vscode 内部运行"></a>vscode 内部运行</h1><p><img src="/image/vscode%E5%86%85%E9%83%A8%E8%BF%90%E8%A1%8C.png"></p>
-<h1 id="vscode-集成终端被拒绝"><a href="#vscode-集成终端被拒绝" class="headerlink" title="vscode 集成终端被拒绝"></a>vscode 集成终端被拒绝</h1><p><img src="/image/vscode%E9%9B%86%E6%88%90%E7%BB%88%E7%AB%AF%E6%8B%92%E7%BB%9D%E8%AE%BF%E9%97%AE.png"></p>
-]]></content>
-      <tags>
-        <tag>vscode</tag>
-        <tag>vscode开发工具</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>vs 专业版注册码</title>
-    <url>/5003b26b8dff/</url>
-    <content><![CDATA[<h1 id="Vs2022-激活码"><a href="#Vs2022-激活码" class="headerlink" title="Vs2022 激活码"></a>Vs2022 激活码</h1><p>Professional: 专业版<br>　　TD244-P4NB7-YQ6XK-Y8MMM-YWV2J<br>Enterprise: 企业版<br>　　VHF9H-NXBBB-638P6-6JHCY-88JWH</p>
-]]></content>
-      <tags>
-        <tag>开发工具</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>宁可躺平,也不内卷</title>
-    <url>/fce5deba3bf6/</url>
-    <content><![CDATA[<h1 id="部署GitHub"><a href="#部署GitHub" class="headerlink" title="部署GitHub"></a>部署GitHub</h1><p><img src="/image/cretrepository.png"><br><img src="/image/setgit.png"></p>
 ]]></content>
   </entry>
 </search>

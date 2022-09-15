@@ -101,6 +101,13 @@
 
   
   <url>
+    <loc>https://gjq01.github.io/tags/Vs%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2022-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://gjq01.github.io/tags/Hexo/</loc>
     <lastmod>2022-09-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -115,7 +122,14 @@
   </url>
   
   <url>
-    <loc>https://gjq01.github.io/tags/Vs%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
+    <loc>https://gjq01.github.io/tags/vscode/</loc>
+    <lastmod>2022-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://gjq01.github.io/tags/vscode%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2022-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -130,20 +144,6 @@
   
   <url>
     <loc>https://gjq01.github.io/tags/Windows/</loc>
-    <lastmod>2022-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://gjq01.github.io/tags/vscode/</loc>
-    <lastmod>2022-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://gjq01.github.io/tags/vscode%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2022-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
