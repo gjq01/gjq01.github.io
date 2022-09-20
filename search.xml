@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Vscode基本操作</title>
-    <url>/Vscode%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</url>
-    <content><![CDATA[<h1 id="整理代码"><a href="#整理代码" class="headerlink" title="整理代码"></a>整理代码</h1><p>Shift+Alt+f</p>
-<h1 id="vscode-内部运行"><a href="#vscode-内部运行" class="headerlink" title="vscode 内部运行"></a>vscode 内部运行</h1><p><img src="/image/vscode%E5%86%85%E9%83%A8%E8%BF%90%E8%A1%8C.png"></p>
-<h1 id="vscode-集成终端被拒绝"><a href="#vscode-集成终端被拒绝" class="headerlink" title="vscode 集成终端被拒绝"></a>vscode 集成终端被拒绝</h1><p><img src="/image/vscode%E9%9B%86%E6%88%90%E7%BB%88%E7%AB%AF%E6%8B%92%E7%BB%9D%E8%AE%BF%E9%97%AE.png"></p>
-]]></content>
-      <tags>
-        <tag>vscode</tag>
-        <tag>vscode开发工具</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hexo基本命令</title>
     <url>/Hexo%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/</url>
     <content><![CDATA[<h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$npm install -g hexo-cli </span><br></pre></td></tr></table></figure>
@@ -86,5 +74,17 @@
     <url>/%E5%AE%81%E5%8F%AF%E8%BA%BA%E5%B9%B3-%E4%B9%9F%E4%B8%8D%E5%86%85%E5%8D%B7/</url>
     <content><![CDATA[<h1 id="部署GitHub"><a href="#部署GitHub" class="headerlink" title="部署GitHub"></a>部署GitHub</h1><p><img src="/image/cretrepository.png"><br><img src="/image/setgit.png"></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>Vscode基本操作</title>
+    <url>/Vscode%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</url>
+    <content><![CDATA[<h1 id="整理代码"><a href="#整理代码" class="headerlink" title="整理代码"></a>整理代码</h1><p>Shift+Alt+f</p>
+<h1 id="vscode-内部运行"><a href="#vscode-内部运行" class="headerlink" title="vscode 内部运行"></a>vscode 内部运行</h1><p><img src="/image/vscode%E5%86%85%E9%83%A8%E8%BF%90%E8%A1%8C.png"></p>
+<h1 id="vscode-集成终端被拒绝"><a href="#vscode-集成终端被拒绝" class="headerlink" title="vscode 集成终端被拒绝"></a>vscode 集成终端被拒绝</h1><p><img src="/image/vscode%E9%9B%86%E6%88%90%E7%BB%88%E7%AB%AF%E6%8B%92%E7%BB%9D%E8%AE%BF%E9%97%AE.png"></p>
+]]></content>
+      <tags>
+        <tag>vscode</tag>
+        <tag>vscode开发工具</tag>
+      </tags>
   </entry>
 </search>
