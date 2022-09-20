@@ -81,7 +81,7 @@
 
 
 
-  <meta name="keywords" content="Vs开发工具," />
+  <meta name="keywords" content="vscode,vscode开发工具," />
 
 
 
@@ -92,18 +92,22 @@
 
 
 
-<meta name="description" content="adb 无线调试机型 MI9 MIUI 12.5 123451.开启开发者模式2.打开开发者选项3.开启无限调试并进入可以看到 ip+端口4.vs 打开 adb 命令窗口  输入：adb connect ip:端口">
+<meta name="description" content="整理代码Shift+Alt+f vscode 内部运行 vscode 集成终端被拒绝">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Visual Studio 真机调试">
-<meta property="og:url" content="https://gjq01.github.io/57f71e2b44cc/index.html">
+<meta property="og:title" content="Vscode基本操作">
+<meta property="og:url" content="https://gjq01.github.io/Vscode%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/index.html">
 <meta property="og:site_name" content="十九">
-<meta property="og:description" content="adb 无线调试机型 MI9 MIUI 12.5 123451.开启开发者模式2.打开开发者选项3.开启无限调试并进入可以看到 ip+端口4.vs 打开 adb 命令窗口  输入：adb connect ip:端口">
+<meta property="og:description" content="整理代码Shift+Alt+f vscode 内部运行 vscode 集成终端被拒绝">
 <meta property="og:locale">
-<meta property="article:published_time" content="2022-09-15T14:04:04.000Z">
-<meta property="article:modified_time" content="2022-09-15T14:12:43.234Z">
+<meta property="og:image" content="https://gjq01.github.io/image/vscode%E5%86%85%E9%83%A8%E8%BF%90%E8%A1%8C.png">
+<meta property="og:image" content="https://gjq01.github.io/image/vscode%E9%9B%86%E6%88%90%E7%BB%88%E7%AB%AF%E6%8B%92%E7%BB%9D%E8%AE%BF%E9%97%AE.png">
+<meta property="article:published_time" content="2022-09-15T13:23:28.000Z">
+<meta property="article:modified_time" content="2022-09-16T11:52:38.586Z">
 <meta property="article:author" content="Bug达人-龚峻群">
-<meta property="article:tag" content="Vs开发工具">
+<meta property="article:tag" content="vscode">
+<meta property="article:tag" content="vscode开发工具">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://gjq01.github.io/image/vscode%E5%86%85%E9%83%A8%E8%BF%90%E8%A1%8C.png">
 
 
 
@@ -133,13 +137,13 @@
 
 
 
-  <link rel="canonical" href="https://gjq01.github.io/57f71e2b44cc/"/>
+  <link rel="canonical" href="https://gjq01.github.io/Vscode基本操作/"/>
 
 
 
 
 
-  <title>Visual Studio 真机调试</title> 
+  <title>Vscode基本操作</title> 
   
 
 
@@ -339,7 +343,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://gjq01.github.io/57f71e2b44cc/">
+    <link itemprop="mainEntityOfPage" href="https://gjq01.github.io/Vscode%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="">
@@ -358,7 +362,7 @@
 
         
         
-          <h2 class="post-title" itemprop="name headline">Visual Studio 真机调试</h2>
+          <h2 class="post-title" itemprop="name headline">Vscode基本操作</h2>
         
 
 
@@ -382,7 +386,7 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2022-09-15T22:04:04+08:00">
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2022-09-15T21:23:28+08:00">
                 2022-09-15
               </time>
             
@@ -403,8 +407,8 @@
                 <span class="post-meta-item-icon">
                   <i class="fa fa-comment-o"></i>
                 </span>
-                <a href="/57f71e2b44cc/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count valine-comment-count" data-xid="/57f71e2b44cc/" itemprop="commentCount"></span>
+                <a href="/Vscode%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/Vscode%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/" itemprop="commentCount"></span>
                 </a>
               </span>
             
@@ -446,8 +450,10 @@
       
 
       
-        <h1 id="adb-无线调试"><a href="#adb-无线调试" class="headerlink" title="adb 无线调试"></a>adb 无线调试</h1><p>机型 MI9 MIUI 12.5</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">1.开启开发者模式</span><br><span class="line">2.打开开发者选项</span><br><span class="line">3.开启无限调试并进入可以看到 ip+端口</span><br><span class="line">4.vs 打开 adb 命令窗口</span><br><span class="line">  输入：adb connect ip:端口</span><br></pre></td></tr></table></figure>
+        <h1 id="整理代码"><a href="#整理代码" class="headerlink" title="整理代码"></a>整理代码</h1><p>Shift+Alt+f</p>
+<h1 id="vscode-内部运行"><a href="#vscode-内部运行" class="headerlink" title="vscode 内部运行"></a>vscode 内部运行</h1><p><img src="/image/vscode%E5%86%85%E9%83%A8%E8%BF%90%E8%A1%8C.png"></p>
+<h1 id="vscode-集成终端被拒绝"><a href="#vscode-集成终端被拒绝" class="headerlink" title="vscode 集成终端被拒绝"></a>vscode 集成终端被拒绝</h1><p><img src="/image/vscode%E9%9B%86%E6%88%90%E7%BB%88%E7%AB%AF%E6%8B%92%E7%BB%9D%E8%AE%BF%E9%97%AE.png"></p>
+
       
     </div>
     
@@ -499,7 +505,7 @@
   </li>
   <li class="post-copyright-link">
     <strong>本文链接：</strong>
-    <a href="https://gjq01.github.io/57f71e2b44cc/" title="Visual Studio 真机调试">https://gjq01.github.io/57f71e2b44cc/</a>
+    <a href="https://gjq01.github.io/Vscode%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/" title="Vscode基本操作">https://gjq01.github.io/Vscode%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</a>
   </li>
   <li class="post-copyright-license">
     <strong>版权声明： </strong>
@@ -514,7 +520,9 @@
       
         <div class="post-tags">
           
-            <a href="/tags/Vs%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/" rel="tag"># Vs开发工具</a>
+            <a href="/tags/vscode/" rel="tag"># vscode</a>
+          
+            <a href="/tags/vscode%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/" rel="tag"># vscode开发工具</a>
           
         </div>
       
@@ -527,8 +535,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/e8b9454e0a12/" rel="next" title="Vscode基本操作">
-                <i class="fa fa-chevron-left"></i> Vscode基本操作
+              <a href="/Hexo%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/" rel="next" title="Hexo基本命令">
+                <i class="fa fa-chevron-left"></i> Hexo基本命令
               </a>
             
           </div>
@@ -537,8 +545,8 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/512755b9a75f/" rel="prev" title="iis 服务器搭建下载服务器">
-                iis 服务器搭建下载服务器 <i class="fa fa-chevron-right"></i>
+              <a href="/Visual-Studio-%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95/" rel="prev" title="Visual Studio 真机调试">
+                Visual Studio 真机调试 <i class="fa fa-chevron-right"></i>
               </a>
             
           </div>
@@ -701,7 +709,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#adb-%E6%97%A0%E7%BA%BF%E8%B0%83%E8%AF%95"><span class="nav-number">1.</span> <span class="nav-text">adb 无线调试</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%95%B4%E7%90%86%E4%BB%A3%E7%A0%81"><span class="nav-number">1.</span> <span class="nav-text">整理代码</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#vscode-%E5%86%85%E9%83%A8%E8%BF%90%E8%A1%8C"><span class="nav-number">2.</span> <span class="nav-text">vscode 内部运行</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#vscode-%E9%9B%86%E6%88%90%E7%BB%88%E7%AB%AF%E8%A2%AB%E6%8B%92%E7%BB%9D"><span class="nav-number">3.</span> <span class="nav-text">vscode 集成终端被拒绝</span></a></li></ol></div>
             
 
           </div>

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://gjq01.github.io/512755b9a75f/</loc>
+    <loc>https://gjq01.github.io/iis-%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E4%B8%8B%E8%BD%BD%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
     
     <lastmod>2022-09-20</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://gjq01.github.io/114cd167c89d/</loc>
+    <loc>https://gjq01.github.io/go-cqhttp-windows-amd64%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%90%AD%E5%BB%BA/</loc>
     
     <lastmod>2022-09-17</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://gjq01.github.io/26bb3d9c5321/</loc>
+    <loc>https://gjq01.github.io/hello-world/</loc>
     
     <lastmod>2022-09-17</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://gjq01.github.io/e8b9454e0a12/</loc>
+    <loc>https://gjq01.github.io/Vscode%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</loc>
     
     <lastmod>2022-09-16</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://gjq01.github.io/57f71e2b44cc/</loc>
+    <loc>https://gjq01.github.io/Visual-Studio-%E7%9C%9F%E6%9C%BA%E8%B0%83%E8%AF%95/</loc>
     
     <lastmod>2022-09-15</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://gjq01.github.io/a016a8b20502/</loc>
+    <loc>https://gjq01.github.io/Hexo%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/</loc>
     
     <lastmod>2022-09-15</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://gjq01.github.io/5003b26b8dff/</loc>
+    <loc>https://gjq01.github.io/vs-%E4%B8%93%E4%B8%9A%E7%89%88%E6%B3%A8%E5%86%8C%E7%A0%81/</loc>
     
     <lastmod>2022-08-24</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://gjq01.github.io/fce5deba3bf6/</loc>
+    <loc>https://gjq01.github.io/%E5%AE%81%E5%8F%AF%E8%BA%BA%E5%B9%B3-%E4%B9%9F%E4%B8%8D%E5%86%85%E5%8D%B7/</loc>
     
     <lastmod>2022-08-23</lastmod>
     
@@ -138,13 +138,6 @@
   </url>
   
   <url>
-    <loc>https://gjq01.github.io/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2022-09-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://gjq01.github.io/tags/Vs%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2022-09-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -160,6 +153,13 @@
   
   <url>
     <loc>https://gjq01.github.io/tags/Windows/</loc>
+    <lastmod>2022-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://gjq01.github.io/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2022-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
