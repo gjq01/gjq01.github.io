@@ -13,10 +13,26 @@
       </tags>
   </entry>
   <entry>
-    <title>go-cqhttp_windows_amd64机器人搭建</title>
-    <url>/114cd167c89d/</url>
-    <content><![CDATA[<p>go-cqhttp_windows_amd64<br>链接：<a href="https://pan.baidu.com/s/1xbEt2W4qlBBoDDqDrX3VTw">https://pan.baidu.com/s/1xbEt2W4qlBBoDDqDrX3VTw</a> 提取码：9fwz</p>
+    <title>Hexo基本命令</title>
+    <url>/a016a8b20502/</url>
+    <content><![CDATA[<h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$npm install -g hexo-cli </span><br></pre></td></tr></table></figure>
+
+<h1 id="建站"><a href="#建站" class="headerlink" title="建站"></a>建站</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo init &lt;folder&gt;</span><br><span class="line">$ cd &lt;folder&gt;</span><br><span class="line">$ npm install</span><br></pre></td></tr></table></figure>
+
+<h1 id="写作"><a href="#写作" class="headerlink" title="写作"></a>写作</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo new [layout] &lt;title&gt;</span><br><span class="line">默认 post 格式布局</span><br></pre></td></tr></table></figure>]]></content>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>命令</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>vs 专业版注册码</title>
+    <url>/5003b26b8dff/</url>
+    <content><![CDATA[<h1 id="Vs2022-激活码"><a href="#Vs2022-激活码" class="headerlink" title="Vs2022 激活码"></a>Vs2022 激活码</h1><p>Professional: 专业版<br>　　TD244-P4NB7-YQ6XK-Y8MMM-YWV2J<br>Enterprise: 企业版<br>　　VHF9H-NXBBB-638P6-6JHCY-88JWH</p>
 ]]></content>
+      <tags>
+        <tag>开发工具</tag>
+      </tags>
   </entry>
   <entry>
     <title>Visual Studio 真机调试</title>
@@ -26,6 +42,12 @@
       <tags>
         <tag>Vs开发工具</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>宁可躺平,也不内卷</title>
+    <url>/fce5deba3bf6/</url>
+    <content><![CDATA[<h1 id="部署GitHub"><a href="#部署GitHub" class="headerlink" title="部署GitHub"></a>部署GitHub</h1><p><img src="/image/cretrepository.png"><br><img src="/image/setgit.png"></p>
+]]></content>
   </entry>
   <entry>
     <title>iis 服务器搭建下载服务器</title>
@@ -39,6 +61,12 @@
         <tag>服务器</tag>
         <tag>Windows</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>go-cqhttp_windows_amd64机器人搭建</title>
+    <url>/114cd167c89d/</url>
+    <content><![CDATA[<p>go-cqhttp_windows_amd64<br>链接：<a href="https://pan.baidu.com/s/1xbEt2W4qlBBoDDqDrX3VTw">https://pan.baidu.com/s/1xbEt2W4qlBBoDDqDrX3VTw</a> 提取码：9fwz</p>
+]]></content>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -58,33 +86,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>宁可躺平,也不内卷</title>
-    <url>/fce5deba3bf6/</url>
-    <content><![CDATA[<h1 id="部署GitHub"><a href="#部署GitHub" class="headerlink" title="部署GitHub"></a>部署GitHub</h1><p><img src="/image/cretrepository.png"><br><img src="/image/setgit.png"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>vs 专业版注册码</title>
-    <url>/5003b26b8dff/</url>
-    <content><![CDATA[<h1 id="Vs2022-激活码"><a href="#Vs2022-激活码" class="headerlink" title="Vs2022 激活码"></a>Vs2022 激活码</h1><p>Professional: 专业版<br>　　TD244-P4NB7-YQ6XK-Y8MMM-YWV2J<br>Enterprise: 企业版<br>　　VHF9H-NXBBB-638P6-6JHCY-88JWH</p>
-]]></content>
-      <tags>
-        <tag>开发工具</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hexo基本命令</title>
-    <url>/a016a8b20502/</url>
-    <content><![CDATA[<h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$npm install -g hexo-cli </span><br></pre></td></tr></table></figure>
-
-<h1 id="建站"><a href="#建站" class="headerlink" title="建站"></a>建站</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo init &lt;folder&gt;</span><br><span class="line">$ cd &lt;folder&gt;</span><br><span class="line">$ npm install</span><br></pre></td></tr></table></figure>
-
-<h1 id="写作"><a href="#写作" class="headerlink" title="写作"></a>写作</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo new [layout] &lt;title&gt;</span><br><span class="line">默认 post 格式布局</span><br></pre></td></tr></table></figure>]]></content>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>命令</tag>
-      </tags>
   </entry>
 </search>
